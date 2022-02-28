@@ -1,10 +1,10 @@
-package io.coolexplorer.springmicropush;
+package io.coolexplorer.push;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringMicroPushApplicationTests {
+class PushApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,0 +1,8 @@
+# spring
+
+# server
+server:
+  title: spring-micro-push
+  version: '@project.version@'
+  port: 8380
+
